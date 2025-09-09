@@ -31,9 +31,9 @@ Evaluate the model with test accuracy, confusion matrix, classification report, 
 
 ## PROGRAM
 
-### Name: MUKESH KUMAR S
+### Name: DHANA LAKSHMI A
 
-### Register Number: 212223240099
+### Register Number: 212223040033
 ```python
 import torch as t
 import torch.nn as nn
